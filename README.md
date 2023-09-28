@@ -1,7 +1,7 @@
+![CURRY](https://capsule-render.vercel.app/api?type=rect&height=200&text=Stroke%20Test&fontAlign=70&stroke=00FF00&strokeWidth=3)
+
 - 👋 Hi, I’m @69is54
 - 👀 I’m interested in React.
-- 🌱 You can find me on instagram: ![instagram](https://www.instagram.com/collie_cocky/)
-
 - 💞️ I’m looking to collaborate on all the repos you see here
 - 📫 Have fun!
 
