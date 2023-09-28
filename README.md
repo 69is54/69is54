@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @69is54
 - 👀 I’m interested in React.
-- 🌱 You can find me on instagram: ![<Badge Name>]([(https://www.instagram.com/collie_cocky/)]<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+- 🌱 You can find me on instagram: ![instagram]((https://www.instagram.com/collie_cocky/))
 
 - 💞️ I’m looking to collaborate on all the repos you see here
 - 📫 Have fun!
